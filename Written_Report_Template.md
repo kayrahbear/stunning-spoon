@@ -4,6 +4,8 @@
 
 ### Purpose
 
+a thing
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
